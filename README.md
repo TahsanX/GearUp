@@ -2,6 +2,9 @@
 
 Rent Sports & Outdoor Gear Instantly — REST API built with Node.js, Express, TypeScript, Prisma, and PostgreSQL.
 
+**Live API:** https://gearup-backend-nine-psi.vercel.app
+**Postman Collection:** [postman/GearUp.postman_collection.json](./postman/GearUp.postman_collection.json)
+
 ## Tech Stack
 
 - Node.js + Express (ESM)
